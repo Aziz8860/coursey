@@ -1,25 +1,22 @@
-Completed at 3 April 2024 - Laravel Version 11 at Bandung
+![App Banner](https://github.com/user-attachments/assets/6291d3d4-cc66-4878-8abe-fd1c6192b07f)
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# Coursey
+Online course platform where user can buy an online course. This project implemented RBAC (Role Based Access Control) using Spatie which has 3 roles: Owner, Teacher, Student and each role have their own protected routes. The authentication feature implemented using Breeze library.
 
+## Features
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+### 1. Owner Role can manage all courses
+Owner can add or remove course
 
-## About Laravel
+### 2. Teacher Role can add or remove its own course
+Teacher can manage course inluding the price. Add video for each lesson
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+### 3. Student Role can buy course and learn
+After buying a course, student can learning through the course
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Future Plan
+- Add payment integration because right now student can only buy a course by uploading transfer receipt via form and still need manual confirmation by admin.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+## ERD
+![coursey database](https://github.com/user-attachments/assets/5a97db0e-4e23-4a78-b393-c941c17ed4f0)
+

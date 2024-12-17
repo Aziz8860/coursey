@@ -153,8 +153,8 @@
               </div>
               <p class="text-[#475466]">Account Name</p>
             </div>
-            <p class="font-semibold">Alqowy Education First</p>
-            <input type="hidden" name="accountName" value="Alqowy Education First">
+            <p class="font-semibold">Coursey Education First</p>
+            <input type="hidden" name="accountName" value="Coursey Education First">
           </div>
           <div class="flex items-center justify-between">
             <div class="flex gap-3">
@@ -188,7 +188,7 @@
       </form>
     </div>
     <div class="flex justify-center absolute transform -translate-x-1/2 left-1/2 bottom-0 w-full">
-      <img src="assets/background/alqowy.svg" alt="background">
+      <img src="assets/background/Coursey.svg" alt="background">
     </div>
   </div>
 

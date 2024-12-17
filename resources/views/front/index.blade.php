@@ -75,7 +75,7 @@
       <div class="flex flex-col gap-[10px]">
         <h1 class="font-semibold text-[80px] leading-[82px] text-center gradient-text-hero">Build
           Future Career.</h1>
-        <p class="text-center text-xl leading-[36px] text-[#F5F8FA]">Alqowy provides high quality
+        <p class="text-center text-xl leading-[36px] text-[#F5F8FA]">Coursey provides high quality
           online courses for you to grow <br>
           your skills and build outstanding portfolio to tackle job interviews</p>
       </div>
@@ -339,7 +339,7 @@
               </div>
               <p class="font-semibold">Shayna</p>
             </div>
-            <p class="text-sm text-[#475466]">Alqowy has helped me to grow from zero to perfect
+            <p class="text-sm text-[#475466]">Coursey has helped me to grow from zero to perfect
               career, thank you!</p>
             <div class="flex gap-[2px]">
               <div>
@@ -367,7 +367,7 @@
               </div>
               <p class="font-semibold">Shayna</p>
             </div>
-            <p class="text-sm text-[#475466]">Alqowy has helped me to grow from zero to perfect
+            <p class="text-sm text-[#475466]">Coursey has helped me to grow from zero to perfect
               career, thank you!</p>
             <div class="flex gap-[2px]">
               <div>
@@ -395,7 +395,7 @@
               </div>
               <p class="font-semibold">Shayna</p>
             </div>
-            <p class="text-sm text-[#475466]">Alqowy has helped me to grow from zero to perfect
+            <p class="text-sm text-[#475466]">Coursey has helped me to grow from zero to perfect
               career, thank you!</p>
             <div class="flex gap-[2px]">
               <div>
@@ -423,7 +423,7 @@
               </div>
               <p class="font-semibold">Shayna</p>
             </div>
-            <p class="text-sm text-[#475466]">Alqowy has helped me to grow from zero to perfect
+            <p class="text-sm text-[#475466]">Coursey has helped me to grow from zero to perfect
               career, thank you!</p>
             <div class="flex gap-[2px]">
               <div>
@@ -454,7 +454,7 @@
               </div>
               <p class="font-semibold">Shayna</p>
             </div>
-            <p class="text-sm text-[#475466]">Alqowy has helped me to grow from zero to perfect
+            <p class="text-sm text-[#475466]">Coursey has helped me to grow from zero to perfect
               career, thank you!</p>
             <div class="flex gap-[2px]">
               <div>
@@ -482,7 +482,7 @@
               </div>
               <p class="font-semibold">Shayna</p>
             </div>
-            <p class="text-sm text-[#475466]">Alqowy has helped me to grow from zero to perfect
+            <p class="text-sm text-[#475466]">Coursey has helped me to grow from zero to perfect
               career, thank you!</p>
             <div class="flex gap-[2px]">
               <div>
@@ -510,7 +510,7 @@
               </div>
               <p class="font-semibold">Shayna</p>
             </div>
-            <p class="text-sm text-[#475466]">Alqowy has helped me to grow from zero to perfect
+            <p class="text-sm text-[#475466]">Coursey has helped me to grow from zero to perfect
               career, thank you!</p>
             <div class="flex gap-[2px]">
               <div>
@@ -538,7 +538,7 @@
               </div>
               <p class="font-semibold">Shayna</p>
             </div>
-            <p class="text-sm text-[#475466]">Alqowy has helped me to grow from zero to perfect
+            <p class="text-sm text-[#475466]">Coursey has helped me to grow from zero to perfect
               career, thank you!</p>
             <div class="flex gap-[2px]">
               <div>
@@ -571,7 +571,7 @@
               </div>
               <p class="font-semibold">Shayna</p>
             </div>
-            <p class="text-sm text-[#475466]">Alqowy has helped me to grow from zero to perfect
+            <p class="text-sm text-[#475466]">Coursey has helped me to grow from zero to perfect
               career, thank you!</p>
             <div class="flex gap-[2px]">
               <div>
@@ -599,7 +599,7 @@
               </div>
               <p class="font-semibold">Shayna</p>
             </div>
-            <p class="text-sm text-[#475466]">Alqowy has helped me to grow from zero to perfect
+            <p class="text-sm text-[#475466]">Coursey has helped me to grow from zero to perfect
               career, thank you!</p>
             <div class="flex gap-[2px]">
               <div>
@@ -627,7 +627,7 @@
               </div>
               <p class="font-semibold">Shayna</p>
             </div>
-            <p class="text-sm text-[#475466]">Alqowy has helped me to grow from zero to perfect
+            <p class="text-sm text-[#475466]">Coursey has helped me to grow from zero to perfect
               career, thank you!</p>
             <div class="flex gap-[2px]">
               <div>
@@ -655,7 +655,7 @@
               </div>
               <p class="font-semibold">Shayna</p>
             </div>
-            <p class="text-sm text-[#475466]">Alqowy has helped me to grow from zero to perfect
+            <p class="text-sm text-[#475466]">Coursey has helped me to grow from zero to perfect
               career, thank you!</p>
             <div class="flex gap-[2px]">
               <div>
@@ -686,7 +686,7 @@
               </div>
               <p class="font-semibold">Shayna</p>
             </div>
-            <p class="text-sm text-[#475466]">Alqowy has helped me to grow from zero to perfect
+            <p class="text-sm text-[#475466]">Coursey has helped me to grow from zero to perfect
               career, thank you!</p>
             <div class="flex gap-[2px]">
               <div>
@@ -714,7 +714,7 @@
               </div>
               <p class="font-semibold">Shayna</p>
             </div>
-            <p class="text-sm text-[#475466]">Alqowy has helped me to grow from zero to perfect
+            <p class="text-sm text-[#475466]">Coursey has helped me to grow from zero to perfect
               career, thank you!</p>
             <div class="flex gap-[2px]">
               <div>
@@ -742,7 +742,7 @@
               </div>
               <p class="font-semibold">Shayna</p>
             </div>
-            <p class="text-sm text-[#475466]">Alqowy has helped me to grow from zero to perfect
+            <p class="text-sm text-[#475466]">Coursey has helped me to grow from zero to perfect
               career, thank you!</p>
             <div class="flex gap-[2px]">
               <div>
@@ -770,7 +770,7 @@
               </div>
               <p class="font-semibold">Shayna</p>
             </div>
-            <p class="text-sm text-[#475466]">Alqowy has helped me to grow from zero to perfect
+            <p class="text-sm text-[#475466]">Coursey has helped me to grow from zero to perfect
               career, thank you!</p>
             <div class="flex gap-[2px]">
               <div>
@@ -942,7 +942,7 @@
       </div>
     </div>
     <div class="w-full h-[51px] flex items-end border-t border-[#E7EEF2]">
-      <p class="mx-auto text-sm text-[#6D7786] -tracking-[2%]">All Rights Reserved Alqowy
+      <p class="mx-auto text-sm text-[#6D7786] -tracking-[2%]">All Rights Reserved Coursey
         BuildWithAngga 2024</p>
     </div>
   </footer>
